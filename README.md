@@ -6,7 +6,7 @@ Windows (MinGW):
 
 ```powershell
 gcc -g calculator.c -o calculator.exe
-.\helloworld.exe
+.\calculator.exe
 ```
 
 The program is a simple menu-driven calculator supporting add, subtract, multiply, divide, integer-power, and integer modulo. Enter numbers when prompted. Division/modulo by zero is checked.
