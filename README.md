@@ -5,7 +5,7 @@ Build and run using the existing VS Code task or with `gcc`:
 Windows (MinGW):
 
 ```powershell
-gcc -g helloworld.c -o helloworld.exe
+gcc -g calculator.c -o calculator.exe
 .\helloworld.exe
 ```
 
